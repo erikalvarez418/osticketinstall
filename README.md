@@ -13,12 +13,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b>
+<b>- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
 <ul>
-<li>Windows 10/li>
+<li>Windows 10</li>
 <li>osTicket Installation Files</li>
 </ul>
 
